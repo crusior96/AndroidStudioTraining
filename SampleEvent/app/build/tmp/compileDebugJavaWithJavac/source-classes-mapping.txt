@@ -1,0 +1,7 @@
+com/example/sampleevent/BuildConfig.java
+ com.example.sampleevent.BuildConfig
+com/example/sampleevent/MainActivity.java
+ com.example.sampleevent.MainActivity
+ com.example.sampleevent.MainActivity$1
+ com.example.sampleevent.MainActivity$2
+ com.example.sampleevent.MainActivity$3
