@@ -1,0 +1,6 @@
+org/androidtown/doitmission03/BuildConfig.java
+ org.androidtown.doitmission03.BuildConfig
+org/androidtown/doitmission03/MainActivity.java
+ org.androidtown.doitmission03.MainActivity
+ org.androidtown.doitmission03.MainActivity$1
+ org.androidtown.doitmission03.MainActivity$2
